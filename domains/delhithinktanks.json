@@ -1,8 +1,8 @@
 {
   "description": "Delhi Think Tanks Directory",
   "owner": {
-    "repo": "https://github.com/roshanamarujala/delhi-think-tanks",
-    "email": "roshanamarujala.com"
+    "username": "roshanamarujala",
+    "email": "roshanamarujala@gmail.com"
   },
   "records": {
     "CNAME": "roshanamarujala.github.io"
