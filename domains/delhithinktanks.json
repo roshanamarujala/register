@@ -1,12 +1,10 @@
 {
   "description": "Delhi Think Tanks Directory",
-  "domain": "delhithinktanks",
-  "subdomain": "delhithinktanks",
   "owner": {
     "repo": "https://github.com/roshanamarujala/delhi-think-tanks",
     "email": "roshanamarujala.com"
   },
-  "record": {
+  "records": {
     "CNAME": "roshanamarujala.github.io"
   }
 }
